@@ -1,0 +1,8 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Date_of_Birth,Order_Date,Product,Category,Quantity,Price,City
+101,C001,Ravi Kumar,Male,1998-05-12,2023/01/10,Rice Bag,Grains,2,1200,Chennai
+102,C002,Anita Sharma,Female,1995-08-20,10-01-2023,Wheat Bag,Grains,1,900,Delhi
+103,C003,John Doe,M,1990-02-15,2023-01-11,Rice Bag,Grains,,1200,Mumbai
+104,C004,Meena,Female,1992-11-25,2023/01/12,Sugar,Essentials,5,45,Delhi
+104,C004,Meena,Female,1992-11-25,2023/01/12,Sugar,Essentials,5,45,Delhi
+105,C005,Arun,Male,,2023-01-13,Oil,Essentials,1,180,Chennai
+106,C006,Priya,Female,1999-06-10,2023/01/14,Rice Bag,Grains,3,1200,Bangalore
